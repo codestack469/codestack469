@@ -1,41 +1,26 @@
-Hi, I'm [Your Name]
+# Hi, I'm [Your Name]
 
-Developer | Builder | Tech Enthusiast
+Software developer and hardware tinkerer focused on building web and mobile applications, along with embedded systems and 3D modeling.
 
-I enjoy building applications, experimenting with new technologies, and turning ideas into real projects.
+### Tech Stack
 
-Tech Stack
-Languages
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Fusion 360](https://img.shields.io/badge/Fusion_360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/fusion-360)
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 
+### About Me
 
+* Currently building and exploring projects across full-stack web, mobile, and hardware.
+* Focused on clean code, responsive design, and practical automation.
 
+### Connect With Me
 
-
-
-Frameworks
-
-
-
-
-Tools & Hardware
-
-
-
-
-
-
-What I Work On
-Web Development
-Mobile App Development
-Python Projects
-React & React Native Applications
-Arduino & Hardware Projects
-GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> </p>
-Currently Learning
-
-Always learning, building, and improving.
-
-Connect
-
-Thanks for visiting my profile.
+* GitHub: [github.com/yourusername](https://github.com/yourusername)
+* LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
