@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name]
+# Hi, I'm Shresth Nanwani
 
 Software developer and hardware tinkerer focused on building web and mobile applications, along with embedded systems and 3D modeling.
 
@@ -22,5 +22,5 @@ Software developer and hardware tinkerer focused on building web and mobile appl
 
 ### Connect With Me
 
-* GitHub: [github.com/yourusername](https://github.com/yourusername)
-* LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+* GitHub:[github.com/codestack469](https://github.com/codestack469)
+* LinkedIn: [linkedin.com/in/shresth-nanwani-608716376](https://linkedin.com/in/shresth-nanwani-608716376)
